@@ -1,0 +1,6 @@
+{
+  "name": "Nestora - Live Elevated",
+  "description": "Premium real estate platform to discover, search, compare, rent, and buy handpicked luxury properties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
